@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Programmer and electronics & communications engineer 🧙. Interested in AI and Blockchain.
+I'm a Programmer and electronics & communications engineer 🧙. Interested in AI and Blockchain.
 
 I am currently focusing my attention on web3 mainly because of the disruptive effect this technology will have in the near future, from the way we build software to the new business models that will be possible thanks to it.
 
